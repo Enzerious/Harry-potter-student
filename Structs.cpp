@@ -1,10 +1,3 @@
-/*
-@file		Structs.cpp
-@author		Pedro Aguilar-Espejo
-@version	1.0
-A program that allows the user to enter, store, and display student names, 
-houses(Gryffindor, Hufflepuff, Ravenclaw, Slytherin) And GPAs.
-*/
 #include <iostream>
 #include <string>
 #include <iomanip>
